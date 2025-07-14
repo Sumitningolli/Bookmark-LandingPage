@@ -1,2 +1,2 @@
-# Bookmark-LandingPage
-Landing page using TailwindCSS
+# LunarLanding-Page
+Simple Lunarlanding Page Using TailwindCSS

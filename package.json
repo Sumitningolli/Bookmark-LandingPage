@@ -1,0 +1,16 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx live-server public --no-browser",
+    "build:tailwinds": "npx tailwindcss build src/style.css -o public/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "tailwindcss": "^3.4.17"
+  }
+}
